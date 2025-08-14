@@ -38,8 +38,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-#### Developed by: SATHYAA R
-#### Register number: 212223100052
+### Developed by: SATHYAA R
+### Register number: 212223100052
 
 ## PROGRAM
 
@@ -95,8 +95,9 @@ agent.print_status()
 
 ## OUTPUT
 
+```
 <img width="803" height="263" alt="Screenshot 2025-08-14 195451" src="https://github.com/user-attachments/assets/854dfc92-8724-4c03-b98d-0aa99c7157e9" />
-
+```
 
 ## RESULT
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
